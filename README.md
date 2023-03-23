@@ -7,9 +7,9 @@ The website includes a login/register page, user profile page, and find pet page
 
 -This project demonstrates skills in full-stack web development and database management.\\
 
--Tech Stack Used:\\
-&nbsp; Html\\
-&nbsp; Css\\
-&nbsp; Js\\
-&nbsp; Php\\
+-Tech Stack Used: \\
+&nbsp; Html \\
+&nbsp; Css \\
+&nbsp; Js \\
+&nbsp; Php \\
 &nbsp; DBMS
