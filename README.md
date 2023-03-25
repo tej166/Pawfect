@@ -13,3 +13,10 @@ The website includes a login/register page, user profile page, and find pet page
 &nbsp; Js <br>
 &nbsp; Php <br>
 &nbsp; DBMS
+
+
+![Screenshot (219)](https://user-images.githubusercontent.com/113262760/227736799-87ac40af-afd6-44ba-a024-fcc8c287bea6.png)
+
+![Uploading Screenshot (221).png…]()
+
+![Screenshot (192)](https://user-images.githubusercontent.com/113262760/227736919-3b2ccc86-6f85-4d6f-ae26-8ee00226773c.png)
